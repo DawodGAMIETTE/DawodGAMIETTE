@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DavidGAMIETTE
+- 👋 Hi, I’m @DawodGAMIETTE
 
 - 🌱 I’m currently learning C, Python and JavaScript.
 
