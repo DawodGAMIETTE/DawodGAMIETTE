@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @DawodGAMIETTE
+- 👋 Hi, I’m @DavidGAMIETTE
 
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning C, Python and JavaScript.
 
 <!---
 DawodGAMIETTE/DawodGAMIETTE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
