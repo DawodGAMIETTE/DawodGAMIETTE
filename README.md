@@ -22,6 +22,9 @@
 <h3>Stats:</h3>
 <p align="center">
   <a href="https://github.com/DawodGAMIETTE">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DawodGAMIETTE&hide_border=true&card_width=338&theme=transparent">
+  </a>
+  <a href="https://github.com/DawodGAMIETTE">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DawodGAMIETTE&card_width=699&hide_border=true&theme=transparent">
   </a>
 </p>
