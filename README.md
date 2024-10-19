@@ -20,7 +20,7 @@
 </p>
 
 <h3>Stats:</h3>
-<p align="center">
+<p align="left">
   <a href="https://github.com/DawodGAMIETTE">
     <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=DawodGAMIETTE&theme=transparent&hide_border=true&mode=weekly" />
   </a>
