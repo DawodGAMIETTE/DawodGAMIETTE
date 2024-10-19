@@ -22,9 +22,9 @@
 <h3>Stats:</h3>
 <p align="center">
   <a href="https://github.com/DawodGAMIETTE">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DawodGAMIETTE&hide_border=true&card_width=338&theme=transparent">
+    <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DawodGAMIETTE&hide_border=true&theme=transparent" />
   </a>
   <a href="https://github.com/DawodGAMIETTE">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DawodGAMIETTE&card_width=699&hide_border=true&theme=transparent&size_weight=0.5&count_weight=0.5">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DawodGAMIETTE&hide_border=true&theme=transparent&size_weight=0.5&count_weight=0.5&layout=donut" />
   </a>
 </p>
